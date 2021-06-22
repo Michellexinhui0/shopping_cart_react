@@ -7,7 +7,7 @@ import React, { useState } from 'react';
 import ProductList from "./product-list/ProductList.js";
 import products from "./products";
 import ShoppingCart from './shopping-cart/ShoppingCart';
-
+//hi
 function App() {
   const [selectedItems, setSelectedItems] = useState([]);
 
